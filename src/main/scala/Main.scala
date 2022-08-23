@@ -74,7 +74,7 @@ object Main {
   }
 
   def main(args: Array[String]): Unit = {
-    val dataset = "interview-project-data.csv"
+    val dataset = "tazi-se-interview-project-data.csv"
     val producerChunkSize = 500
     val slidingWindowSize = 1000
 
